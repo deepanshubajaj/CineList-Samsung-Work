@@ -1,0 +1,570 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		2F1571BF2EE7EC4600A1364B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2F1571A02EE7EC4500A1364B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2F1571A72EE7EC4500A1364B;
+			remoteInfo = samsungProject;
+		};
+		2F1571C92EE7EC4600A1364B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2F1571A02EE7EC4500A1364B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2F1571A72EE7EC4500A1364B;
+			remoteInfo = samsungProject;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2F1571A82EE7EC4500A1364B /* samsungProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = samsungProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F1571BE2EE7EC4600A1364B /* samsungProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = samsungProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F1571C82EE7EC4600A1364B /* samsungProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = samsungProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2F1571D02EE7EC4600A1364B /* Exceptions for "samsungProject" folder in "samsungProject" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 2F1571A72EE7EC4500A1364B /* samsungProject */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		2F1571AA2EE7EC4500A1364B /* samsungProject */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2F1571D02EE7EC4600A1364B /* Exceptions for "samsungProject" folder in "samsungProject" target */,
+			);
+			path = samsungProject;
+			sourceTree = "<group>";
+		};
+		2F1571C12EE7EC4600A1364B /* samsungProjectTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = samsungProjectTests;
+			sourceTree = "<group>";
+		};
+		2F1571CB2EE7EC4600A1364B /* samsungProjectUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = samsungProjectUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2F1571A52EE7EC4500A1364B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F1571BB2EE7EC4600A1364B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F1571C52EE7EC4600A1364B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2F15719F2EE7EC4500A1364B = {
+			isa = PBXGroup;
+			children = (
+				2F1571AA2EE7EC4500A1364B /* samsungProject */,
+				2F1571C12EE7EC4600A1364B /* samsungProjectTests */,
+				2F1571CB2EE7EC4600A1364B /* samsungProjectUITests */,
+				2F1571A92EE7EC4500A1364B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2F1571A92EE7EC4500A1364B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2F1571A82EE7EC4500A1364B /* samsungProject.app */,
+				2F1571BE2EE7EC4600A1364B /* samsungProjectTests.xctest */,
+				2F1571C82EE7EC4600A1364B /* samsungProjectUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2F1571A72EE7EC4500A1364B /* samsungProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F1571D12EE7EC4600A1364B /* Build configuration list for PBXNativeTarget "samsungProject" */;
+			buildPhases = (
+				2F1571A42EE7EC4500A1364B /* Sources */,
+				2F1571A52EE7EC4500A1364B /* Frameworks */,
+				2F1571A62EE7EC4500A1364B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				2F1571AA2EE7EC4500A1364B /* samsungProject */,
+			);
+			name = samsungProject;
+			packageProductDependencies = (
+			);
+			productName = samsungProject;
+			productReference = 2F1571A82EE7EC4500A1364B /* samsungProject.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2F1571BD2EE7EC4600A1364B /* samsungProjectTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F1571D62EE7EC4600A1364B /* Build configuration list for PBXNativeTarget "samsungProjectTests" */;
+			buildPhases = (
+				2F1571BA2EE7EC4600A1364B /* Sources */,
+				2F1571BB2EE7EC4600A1364B /* Frameworks */,
+				2F1571BC2EE7EC4600A1364B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2F1571C02EE7EC4600A1364B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2F1571C12EE7EC4600A1364B /* samsungProjectTests */,
+			);
+			name = samsungProjectTests;
+			packageProductDependencies = (
+			);
+			productName = samsungProjectTests;
+			productReference = 2F1571BE2EE7EC4600A1364B /* samsungProjectTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2F1571C72EE7EC4600A1364B /* samsungProjectUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F1571D92EE7EC4600A1364B /* Build configuration list for PBXNativeTarget "samsungProjectUITests" */;
+			buildPhases = (
+				2F1571C42EE7EC4600A1364B /* Sources */,
+				2F1571C52EE7EC4600A1364B /* Frameworks */,
+				2F1571C62EE7EC4600A1364B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2F1571CA2EE7EC4600A1364B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2F1571CB2EE7EC4600A1364B /* samsungProjectUITests */,
+			);
+			name = samsungProjectUITests;
+			packageProductDependencies = (
+			);
+			productName = samsungProjectUITests;
+			productReference = 2F1571C82EE7EC4600A1364B /* samsungProjectUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2F1571A02EE7EC4500A1364B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					2F1571A72EE7EC4500A1364B = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					2F1571BD2EE7EC4600A1364B = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 2F1571A72EE7EC4500A1364B;
+					};
+					2F1571C72EE7EC4600A1364B = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 2F1571A72EE7EC4500A1364B;
+					};
+				};
+			};
+			buildConfigurationList = 2F1571A32EE7EC4500A1364B /* Build configuration list for PBXProject "samsungProject" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2F15719F2EE7EC4500A1364B;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2F1571A92EE7EC4500A1364B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2F1571A72EE7EC4500A1364B /* samsungProject */,
+				2F1571BD2EE7EC4600A1364B /* samsungProjectTests */,
+				2F1571C72EE7EC4600A1364B /* samsungProjectUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2F1571A62EE7EC4500A1364B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F1571BC2EE7EC4600A1364B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F1571C62EE7EC4600A1364B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2F1571A42EE7EC4500A1364B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F1571BA2EE7EC4600A1364B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F1571C42EE7EC4600A1364B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2F1571C02EE7EC4600A1364B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2F1571A72EE7EC4500A1364B /* samsungProject */;
+			targetProxy = 2F1571BF2EE7EC4600A1364B /* PBXContainerItemProxy */;
+		};
+		2F1571CA2EE7EC4600A1364B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2F1571A72EE7EC4500A1364B /* samsungProject */;
+			targetProxy = 2F1571C92EE7EC4600A1364B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2F1571D22EE7EC4600A1364B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = samsungProject/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = CineList;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepanshubajaj.samsung.samsungProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2F1571D32EE7EC4600A1364B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = samsungProject/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = CineList;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepanshubajaj.samsung.samsungProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2F1571D42EE7EC4600A1364B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2F1571D52EE7EC4600A1364B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2F1571D72EE7EC4600A1364B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepanshubajaj.samsung.samsungProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/samsungProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/samsungProject";
+			};
+			name = Debug;
+		};
+		2F1571D82EE7EC4600A1364B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepanshubajaj.samsung.samsungProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/samsungProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/samsungProject";
+			};
+			name = Release;
+		};
+		2F1571DA2EE7EC4600A1364B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepanshubajaj.samsung.samsungProjectUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = samsungProject;
+			};
+			name = Debug;
+		};
+		2F1571DB2EE7EC4600A1364B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepanshubajaj.samsung.samsungProjectUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = samsungProject;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2F1571A32EE7EC4500A1364B /* Build configuration list for PBXProject "samsungProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F1571D42EE7EC4600A1364B /* Debug */,
+				2F1571D52EE7EC4600A1364B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2F1571D12EE7EC4600A1364B /* Build configuration list for PBXNativeTarget "samsungProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F1571D22EE7EC4600A1364B /* Debug */,
+				2F1571D32EE7EC4600A1364B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2F1571D62EE7EC4600A1364B /* Build configuration list for PBXNativeTarget "samsungProjectTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F1571D72EE7EC4600A1364B /* Debug */,
+				2F1571D82EE7EC4600A1364B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2F1571D92EE7EC4600A1364B /* Build configuration list for PBXNativeTarget "samsungProjectUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F1571DA2EE7EC4600A1364B /* Debug */,
+				2F1571DB2EE7EC4600A1364B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2F1571A02EE7EC4500A1364B /* Project object */;
+}

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/swift-5.0-orange" />
   <img src="https://img.shields.io/badge/platform-iOS-blue" />
   <img src="https://img.shields.io/badge/ui-UIKit-7F52FF" />
-  <img src="https://img.shields.io/badge/architecture-MVC-purple" />
+  <img src="https://img.shields.io/badge/architecture-MVVM-purple" />
 </p>
 
 ---

@@ -31,7 +31,7 @@ It demonstrates clean architecture, async networking with `URLSession`, and an i
 
 ## 📦 Requirements
 
-- iOS **15.0+**
+- iOS **18.5+**
 - Xcode **14+**
 - Swift **5.0**
 
@@ -76,7 +76,7 @@ From Xcode: Product → Test
 From the command line:
 
 ```sh
-xcodebuild test -project Hive.xcodeproj -scheme Hive -destination 'platform=iOS Simulator,name=iPhone 16'
+xcodebuild test -project Hive.xcodeproj -scheme Hive -destination 'platform=iOS Simulator,name=iPhone 17'
 ```
 
 If the destination name doesn’t exist on your machine, list available simulators and pick one:
@@ -129,7 +129,7 @@ xcrun simctl list devices
 </p>
 
 <p align="center">
-  *Screenshots of the Tech Inventory App showing different screens*
+  *Screenshots of the Cine List App showing different screens*
 </p>
 
 ---
@@ -140,7 +140,7 @@ xcrun simctl list devices
   <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
 </p>
 <p align="center">
-  *The App Icon reflects the Tech Inventory Look*
+  *The App Icon reflects the Cine List Look*
 </p>
 
 ---

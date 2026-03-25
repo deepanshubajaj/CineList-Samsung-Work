@@ -200,6 +200,6 @@ You are free to use this project for personal, educational, or commercial purpos
 
 ---
 
-## 📩 Contact
+## 📩 Contact:
 
 You can reach out to me [here](https://contact-form-react-sepia.vercel.app/).

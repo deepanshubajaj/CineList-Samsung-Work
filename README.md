@@ -198,4 +198,8 @@ You are free to use this project for personal, educational, or commercial purpos
 > **Clarification:** Commercial use includes, but is not limited to, use in products,  
 > services, or activities intended to generate revenue, directly or indirectly.
 
+---
 
+## 📩 Contact
+
+You can reach out to me [here](https://contact-form-react-sepia.vercel.app/).

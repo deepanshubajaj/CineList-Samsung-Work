@@ -93,6 +93,7 @@ xcrun simctl list devices
 ## 🌐 API
 
 - Endpoint: `https://jsonfakery.com/movies/paginated?page={page}`
+- Website: https://jsonfakery.com/ (Mock API provider for testing & assignments)
 - Type: Mock paginated API
 - No API key required
 

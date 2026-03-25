@@ -132,6 +132,12 @@ xcrun simctl list devices
 </p>
 
 <p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD4.jpg" alt="Main Screen 4D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD5.jpg" alt="Main Screen 5D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD6.jpg" alt="Main Screen 6D" width="30%" />
+</p>
+
+<p align="center">
   *Screenshots of the Cine List App showing different screens*
 </p>
 

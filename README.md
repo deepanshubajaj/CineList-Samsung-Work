@@ -175,18 +175,37 @@ Here’s a short video showcasing the app's functionality:
 
 ## 🤝 Contributing
 
-Contributions are welcome.
+Thank you for your interest in contributing to this project!  
+I welcome contributions from the community.
 
-1. Fork the repository
-2. Create a feature branch:
+- You are free to use, modify, and redistribute this code under the terms of the **Apache-2.0 License**.
+- If you'd like to contribute, please **open an issue** or **submit a pull request**.
+- All contributions will be reviewed and approved by the author — **[Deepanshu Bajaj](https://github.com/deepanshubajaj?tab=overview&from=2025-03-01&to=2025-03-31)**.
+
+---
+
+## 📌 How to Contribute
+
+To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch:
    ```bash
    git checkout -b feature/your-feature-name
    ```
+
 3. Commit your changes:
    ```bash
-   git commit -m "Add your feature"
+   git commit -m 'Add your feature'
    ```
-4. Push and open a pull request
+
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+5. Open a pull request.
 
 ---
 

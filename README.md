@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="ProjectOutputs/Others/companyLogo.png" alt="Company Logo"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/swift-5.0-orange" />
   <img src="https://img.shields.io/badge/platform-iOS-blue" />
   <img src="https://img.shields.io/badge/ui-UIKit-7F52FF" />

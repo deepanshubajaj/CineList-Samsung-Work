@@ -1,7 +1,7 @@
 <h1 align="center">CineList - iOS App</h1>
 
 <p align="center">
-  ( Interview Assignment )
+  ( Interview Assignment - Samsung Company )
 </p>
 
 <p align="center">
@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/platform-iOS-blue" />
   <img src="https://img.shields.io/badge/ui-UIKit-7F52FF" />
   <img src="https://img.shields.io/badge/architecture-MVVM-purple" />
+  <img src="https://img.shields.io/badge/license-Apache--2.0-green" alt="License Badge" />
+  <img src="https://img.shields.io/github/last-commit/deepanshubajaj/CineList-Samsung-Work" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/deepanshubajaj/CineList-Samsung-Work?style=social" alt="GitHub Stars" />
 </p>
 
 ---
@@ -32,7 +35,7 @@ It demonstrates clean architecture, async networking with `URLSession`, and an i
 ## 📦 Requirements
 
 - iOS **18.5+**
-- Xcode **14+**
+- Xcode **16.4+**
 - Swift **5.0**
 
 ---
